@@ -4,8 +4,8 @@ I'm currently a **3rd Year AI and Data Science / Computer Science Undergrad** at
 
 ## 🔧 Skills & Technologies
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-- <strong>Languages:</strong>
+- <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+<strong>Languages:</strong>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
