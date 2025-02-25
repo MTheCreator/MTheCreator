@@ -5,7 +5,7 @@ I'm currently a **3rd Year AI and Data Science / Computer Science Undergrad** at
 ## 🔧 Skills & Technologies
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <strong>Languages:</strong>
+- <strong>Languages:</strong>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -14,18 +14,39 @@ I'm currently a **3rd Year AI and Data Science / Computer Science Undergrad** at
 </div>
 
 
-- **Web Development**: HTML5, CSS5, JavaScript, VueJS, Tailwind, Bootstrap, Thymeleaf
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30" height="30">
-- **Databases**: MySQL, PostgreSQL
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30">
-- **Tools & Technologies**: Maven, RISCV, Git, PowerShell, Bash, Linux
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30">
-- **Development Practices**: Agile
+- <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <strong>Web Development:</strong>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+</div>
+
+- <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <strong>Databases:</strong>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
+- <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <strong>Tools & Technologies:</strong>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
+  <img src="https://img.shields.io/badge/RISC--V-0095D5?style=for-the-badge&logo=riscv&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div>
+
+
+- <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <strong>Development Practices:</strong>
+  <img src="https://img.shields.io/badge/Agile-2396F3?style=for-the-badge&logo=agile&logoColor=white">
+</div>
+
 
 
 
