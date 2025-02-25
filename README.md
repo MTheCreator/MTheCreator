@@ -33,8 +33,9 @@ I am passionate about understanding more about **AI**. Another particular intere
 - Honestly any YouTube video about famous malwares (WANNACRY, BonziBuddy, ILOVEYOU, Petya, …) or any historical events that were linked to the Cyberworld 🤷🏽‍♀️
 
 ## 📊 Stats
-<a href="https://app.daily.dev/mthecreator"><img src="https://api.daily.dev/devcards/v2/Lw4cQtboRGq2DEOUBE9cw.png?r=7s2&type=default" width="356" alt="Mounia's Dev Card"/></a>
-
+<div style="text-align: center;">
+  <a href="https://app.daily.dev/mthecreator"><img src="https://api.daily.dev/devcards/v2/Lw4cQtboRGq2DEOUBE9cw.png?r=7s2&type=default" width="356" alt="Mounia's Dev Card"/></a>
+</div>
 
 
 
