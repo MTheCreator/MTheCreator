@@ -3,8 +3,9 @@
 I'm currently a **3rd Year AI and Data Science / Computer Science Undergrad** at **UM6P's College of Computing**. My academic journey has sparked my interest in **Natural Language Processing (NLP)**, **Cybersecurity**, and the **Ethics around emerging technologies**.
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, Java, C, C++, Go
-<div style="display: flex; gap: 5px;">
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <strong>Languages:</strong>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
