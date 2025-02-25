@@ -25,13 +25,14 @@ I'm currently a **3rd Year AI and Data Science / Computer Science Undergrad** at
 
 
 ## 🌱 Current Focus
-I am passionate about understanding more about **AI**. Another particular interest in how **Cybersecurity** can be paired up with **AI** to solve real-world security problems, especially in **Fake News** divulgation and **Recommednation Systems**.
+I am passionate about understanding more about **AI**. Another particular interest in how **Cybersecurity** can be paired up with **AI** to solve real-world security problems, especially in **Fake News** divulgation and **Recommendation Systems**.
 
 ## 📚 Interests and recommendations:
 - Toxic Data, David Chavalarias
 - RUNGGER (M.) et ZAMANI (M.). – Compositional construction of approximate abstractions of interconnected control systems. IEEE Transactions on Control of Network Systems, 5(1) :116–127 (2016)
 - Honestly any YouTube video about famous malwares (WANNACRY, BonziBuddy, ILOVEYOU, Petya, …) or any historical events that were linked to the Cyberworld 🤷🏽‍♀️
 
+💡 **Currently Reading**: Frontier Models are Capable of In-Context Scheming by A.Meinke and Al (reference: arXiv:2412.04984)
 ## 📊 Stats
 <div align="left">
 <a>
