@@ -1,4 +1,4 @@
-# Hi, I’m Mounia BADDOU 👋
+# Hi, I’m Mounia 👋
 
 I'm currently a **3rd Year AI and Data Science / Computer Science Undergrad** at **UM6P's College of Computing**. My academic journey has sparked my interest in **Natural Language Processing (NLP)**, **Cybersecurity**, and the **Ethics around emerging technologies**.
 
