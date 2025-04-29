@@ -59,18 +59,9 @@ I am passionate about understanding more about **AI**. Another particular intere
 - RUNGGER (M.) et ZAMANI (M.). – Compositional construction of approximate abstractions of interconnected control systems. IEEE Transactions on Control of Network Systems, 5(1) :116–127 (2016)
 - Honestly any YouTube video about famous malwares (WANNACRY, BonziBuddy, ILOVEYOU, Petya, …) or any historical events that were linked to the Cyberworld 🤷🏽‍♀️
 
-💡 **Currently Reading**: Frontier Models are Capable of In-Context Scheming by A.Meinke and Al (reference: arXiv:2412.04984)
-## 📊 Stats
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=MTheCreator&theme=tokyonight&show_icons=true" height=150 />
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTheCreator&langs_count=5&theme=tokyonight" height=150 />
-</a>
-<br>
-</div>
-</div>
+💡 **Currently Reading**: 
+- Frontier Models are Capable of In-Context Scheming by A.Meinke and Al (reference: arXiv:2412.04984)
+- MIT's Course on Deep Learning
 
 
 
